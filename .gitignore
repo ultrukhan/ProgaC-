@@ -53,3 +53,17 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# --- .NET Specific ---
+# Ігноруємо папки з результатами білду
+[Bb]in/
+[Oo]bj/
+
+# Налаштування Visual Studio та користувача
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+
+# NuGet пакети
+packages/
