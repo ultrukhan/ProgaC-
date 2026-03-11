@@ -58,33 +58,46 @@ namespace Lab1 {
     }
 
     class Program {
+        static List<IShape> ReadShapesFromFile(string filePath)
+        {
+            var shapesFromFile = new List<IShape>();
+
+            if (!File.Exists(filePath))
+            {
+                Console.WriteLine("Файл не знайдено!");
+                return shapesFromFile;
+            }
+
+            string[] lines = File.ReadAllLines(filePath);
+
+            foreach (string line in lines)
+            {
+                string[] parts = line.Split(';');
+
+                if (parts[0] == "Rectangle")
+                {
+                    double length = double.Parse(parts[1]);
+                    double height = double.Parse(parts[2]);
+
+                    shapesFromFile.Add(new Rectangle(length, height));
+                }
+                else if (parts[0] == "Triangle")
+                {
+                    var side1 = new ColoredSide { sideLength = double.Parse(parts[1]), Color = parts[2] };
+                    var side2 = new ColoredSide { sideLength = double.Parse(parts[3]), Color = parts[4] };
+                    var side3 = new ColoredSide { sideLength = double.Parse(parts[5]), Color = parts[6] };
+
+                    shapesFromFile.Add(new ColoredTriangle(side1, side2, side3));
+                }
+            }
+
+            return shapesFromFile;
+        }
+
         static void Main(string[] args)
         {
-            var shapes = new List<IShape>();
-            shapes.Add(new Rectangle(5, 10));
-            shapes.Add(new ColoredTriangle(
-                new ColoredSide { Color = "red", sideLength = 3 },
-                new ColoredSide { Color = "green", sideLength = 4 },
-                new ColoredSide { Color = "pink", sideLength = 5 }
-            ));
-            shapes.Add(new Rectangle(4, 12));
-            shapes.Add(new ColoredTriangle(
-                new ColoredSide { Color = "pink", sideLength = 3 },
-                new ColoredSide { Color = "pink", sideLength = 4 },
-                new ColoredSide { Color = "pink", sideLength = 5 }
-            ));
-            shapes.Add(new Rectangle(2, 4));
-            shapes.Add(new ColoredTriangle(
-                new ColoredSide { Color = "red", sideLength = 3 },
-                new ColoredSide { Color = "green", sideLength = 4 },
-                new ColoredSide { Color = "pink", sideLength = 5 }
-            ));
-            shapes.Add(new Rectangle(4, 8));
-            shapes.Add(new ColoredTriangle(
-                new ColoredSide { Color = "green", sideLength = 3 },
-                new ColoredSide { Color = "red", sideLength = 4 },
-                new ColoredSide { Color = "green", sideLength = 5 }
-            ));
+            string path = "TextFile1.txt";
+            var shapes = ReadShapesFromFile(path);
 
             shapes.Sort((s1, s2) => s1.GetPerimeter().CompareTo(s2.GetPerimeter()));
             foreach (var shape in shapes)
