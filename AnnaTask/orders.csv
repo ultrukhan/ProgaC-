@@ -1,0 +1,5 @@
+CustomerRegNo,BookId,Quantity
+customer1,book1,2
+customer2,book2,1
+customer3,book1,5
+customer1,book3,3
