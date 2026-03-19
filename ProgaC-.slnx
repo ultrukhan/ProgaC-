@@ -1,3 +1,5 @@
 <Solution>
   <Project Path="ConsoleApp1/ConsoleApp1.csproj" />
+  <Project Path="GeminiTaskKruv/GeminiTaskKruv.csproj" Id="a5f7caf9-cec2-4a9c-8de7-bbb1e70ad2d0" />
+  <Project Path="TaskGemini/TaskElGem/TaskElGem.csproj" Id="851fee12-4e14-49a3-bbe2-94d6c4ef6300" />
 </Solution>

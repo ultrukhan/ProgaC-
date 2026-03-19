@@ -117,7 +117,7 @@ namespace Task
         {
             string path = "shapes.txt";
             var shapes = ReadShapesFromFile(path);
-            
+
 
             shapes.Sort((x, y) => x.Get_Perimeter().CompareTo(y.Get_Perimeter()));
             Console.WriteLine("Shapes, sorted by perimeter: ");
