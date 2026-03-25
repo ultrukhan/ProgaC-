@@ -3,5 +3,5 @@
   <Project Path="ConsoleApp1/ConsoleApp1.csproj" />
   <Project Path="GeminiTaskKruv/GeminiTaskKruv.csproj" Id="a5f7caf9-cec2-4a9c-8de7-bbb1e70ad2d0" />
   <Project Path="NazarTask1/NazarTask1.csproj" Id="701144c3-2431-476b-8773-3e99de1781c5" />
-  <Project Path="TaskGemini/TaskElGem/TaskElGem.csproj" Id="851fee12-4e14-49a3-bbe2-94d6c4ef6300" />
+  <Project Path="NewTaskXML_CSV/NewTaskXML_CSV.csproj" Id="75373f56-eb3f-4265-b88f-7d86ce37235e" />
 </Solution>
