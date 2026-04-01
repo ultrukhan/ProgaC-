@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<ArrayOfStudent>
+	<Student>
+		<ID>1</ID>
+		<Surname>Kruvano</Surname>
+		<City>Lviv</City>
+	</Student>
+	<Student>
+		<ID>2</ID>
+		<Surname>Trukhan</Surname>
+		<City>Odesa</City>
+	</Student>
+	<Student>
+		<ID>3</ID>
+		<Surname>Yaremko</Surname>
+		<City>Kiyv</City>
+	</Student>
+	<Student>
+		<ID>4</ID>
+		<Surname>Litvinchuk</Surname>
+		<City>Ternopil</City>
+	</Student>
+</ArrayOfStudent>

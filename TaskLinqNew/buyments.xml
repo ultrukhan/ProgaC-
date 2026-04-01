@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ArrayOfBuyment>
+	<Buyment>
+		<Student_ID>1 </Student_ID>
+		<Course_ID>1 </Course_ID>
+	</Buyment>
+	<Buyment>
+		<Student_ID>2 </Student_ID>
+		<Course_ID>1 </Course_ID>
+	</Buyment>
+	<Buyment>
+		<Student_ID>3 </Student_ID>
+		<Course_ID>2 </Course_ID>
+	</Buyment>
+	<Buyment>
+		<Student_ID>4 </Student_ID>
+		<Course_ID>3 </Course_ID>
+	</Buyment>
+	<Buyment>
+		<Student_ID>2 </Student_ID>
+		<Course_ID>4 </Course_ID>
+	</Buyment>
+	<Buyment>
+		<Student_ID>1 </Student_ID>
+		<Course_ID>2 </Course_ID>
+	</Buyment>
+</ArrayOfBuyment>
