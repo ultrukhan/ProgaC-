@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ArrayOfCourse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Course xsi:type="ProgramingCourse">
+		<ID>1</ID>
+		<Name>PythonDeveloper</Name>
+		<Author>Author1</Author>
+		<Price>1500</Price>
+		<Language>Python</Language>
+	</Course>
+	<Course xsi:type="ProgramingCourse">
+		<ID>2</ID>
+		<Name>C#Developer</Name>
+		<Author>Author1</Author>
+		<Price>2000</Price>
+		<Language>C#</Language>
+	</Course>
+	<Course xsi:type="DesingCourse">
+		<ID>3</ID>
+		<Name>BlenderDesign</Name>
+		<Author>Author2</Author>
+		<Price>1000</Price>
+		<Software>Blender</Software>
+	</Course>
+	<Course xsi:type="DesingCourse">
+		<ID>4</ID>
+		<Name>FigmaDesing</Name>
+		<Author>Author3</Author>
+		<Price>1000</Price>
+		<Software>Figma</Software>
+	</Course>
+
+	
+	
+</ArrayOfCourse>
