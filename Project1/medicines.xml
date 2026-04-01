@@ -1,0 +1,16 @@
+﻿<ArrayOfMedicine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Medicine xsi:type="OverTheCounterMedicine">
+		<ID>1</ID>
+		<Manufacturer>Bayer</Manufacturer>
+		<Name>Aspirin</Name>
+		<Price>5.99</Price>
+		<Form>Tablets</Form>
+	</Medicine>
+	<Medicine xsi:type="PrescriptionMedicine">
+		<ID>2</ID>
+		<Manufacturer>Pfizer</Manufacturer>
+		<Name>Amoxicillin</Name>
+		<Price>15.00</Price>
+		<Active_ingredient>Amoxicillin</Active_ingredient>
+	</Medicine>
+</ArrayOfMedicine>
