@@ -28,4 +28,11 @@
 		<Price_per_day>3500</Price_per_day>
 		<Load_capacity>18</Load_capacity>
 	</Transport>
+	<Transport xsi:type="Car">
+		<ID>5</ID>
+		<Mark>BMW</Mark>
+		<Model>5 Series</Model>
+		<Price_per_day>2000</Price_per_day>
+		<Car_body>Седан</Car_body>
+	</Transport>
 </ArrayOfTransport>

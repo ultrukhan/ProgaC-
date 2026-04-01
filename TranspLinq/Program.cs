@@ -226,6 +226,8 @@ namespace NewTask
                 }
             };
 
+            //а) таблицю, в якій для кожного клієнта (вказувати його прізвище)
+            //подати сумарну вартість усіх його договорів (вартість оренди авто на день помножена на кількість днів).
             var ClientsTotal = from contract in contracts
                                join client in clients on contract.Client_ID equals client.ID
                                join transport in company.Transport_list on contract.Transport_ID equals transport.ID
@@ -241,6 +243,7 @@ namespace NewTask
                 Console.WriteLine($"Client: {client.Surname}, Total sum: {client.TotalSum}");
             }
 
+            //б) таблицю, в якій подати для кожної марки авто сумарний дохід від її оренди.
             var MarkTotal = from contract in contracts
                             join transport in company.Transport_list on contract.Transport_ID equals transport.ID
                             group new { contract.Lease_duration, transport.Price_per_day } by transport.Mark into g
@@ -255,6 +258,7 @@ namespace NewTask
                 Console.WriteLine($"Mark: {mark.Mark}, Total revenue: {mark.Total}");
             }
 
+            //в) список прізвищ клієнтів, які орендували хоча б один транспорт типу "Вантажівка".
             var TruckClients = (from contract in contracts
                                 join transport in company.Transport_list on contract.Transport_ID equals transport.ID
                                 join client in clients on contract.Client_ID equals client.ID
@@ -265,7 +269,7 @@ namespace NewTask
             {
                 Console.WriteLine(client);
             }
-
+            // г) два відсортовані переліки усіх транспортних засобів , перший за ціною а другий за маркою\моделлю.
             var SortedByPrice = from transport in company.Transport_list
                                 orderby transport.Price_per_day descending
                                 select transport;
@@ -281,6 +285,73 @@ namespace NewTask
             foreach (var transport in SortedByMarkAndModel)
             {
                 Console.WriteLine(transport);
+            }
+            //д) Знайти середню кількість днів оренди, але тільки для транспортних засобів типу "Вантажівка".
+            var AverageTruckLeaseDuration = (from contract in contracts
+                                             join transport in company.Transport_list on contract.Transport_ID equals transport.ID
+                                             where transport is Truck
+                                             select contract.Lease_duration).Average();
+            Console.WriteLine($"Average lease duration for trucks: {AverageTruckLeaseDuration} days");
+
+            //Отримати список рядків  у форматі: "Прізвище клієнта — Марка Модель автомобіля (Кількість днів оренди)".
+            var StringList = from contract in contracts
+                             join transport in company.Transport_list on contract.Transport_ID equals transport.ID
+                             join client in clients on contract.Client_ID equals client.ID
+                             select $"{client.Surname} - {transport.Mark} {transport.Model}({contract.Lease_duration} days)";
+
+            Console.WriteLine("Client - Transport - Lease duration:");
+            foreach (var item in StringList)
+            {
+                Console.WriteLine(item);
+            }
+
+            //Вивести прізвища тих клієнтів, які є "постійними" — тобто сумарно (за всіма своїми договорами) орендували транспорт на більше ніж 6 днів.
+            var TempClients = from contract in contracts
+                              join client in clients on contract.Client_ID equals client.ID
+                              group contract.Lease_duration by client.Surname into g
+                              where g.Sum() > 6
+                              select g.Key;
+
+            Console.WriteLine("Clients with total lease duration more than 6 days:");
+            foreach (var client in TempClients)
+            {
+                Console.WriteLine(client);
+            }
+
+            //Визначити, чи є в базі хоча б один договір оренди тривалістю понад 30 днів
+            var Over30Days = contracts.Any(c => c.Lease_duration > 6);
+            Console.WriteLine($"Is there any lease contract with duration more than 30 days? {Over30Days}");
+
+            //Знайти найдорожчий транспортний засіб у каталозі та вивести його марку, модель і ціну.
+
+            //в цьому випадку лише серед орендованих
+            var TheMET = (from contract in contracts
+                          join transport in company.Transport_list on contract.Transport_ID equals transport.ID
+                          orderby transport.Price_per_day descending
+                          select new { transport.Mark, transport.Model, transport.Price_per_day }).FirstOrDefault();
+            Console.WriteLine("The most expensive transport:");
+            if (TheMET != null)
+            {
+                Console.WriteLine(TheMET);
+
+            }
+            // АБО( в цьому випадку серед всіх в каталозі, навіть не орендованих)
+            var TheMET2 = company.Transport_list.MaxBy(t => t.Price_per_day);
+            Console.WriteLine("The most expensive transport (using MaxBy):");
+            if (TheMET2 != null)
+            {
+                Console.WriteLine($"{TheMET2.Mark} {TheMET2.Model} {TheMET2.Price_per_day}");
+            }
+
+            //Знайти "непопулярні" транспортні засоби (вивести їх Марку і Модель), які ще жодного разу не брали в оренду.
+            var NotPopularTransport = from transport in company.Transport_list
+                                      where !contracts.Any(x => x.Transport_ID == transport.ID)
+                                      select new { transport.Mark, transport.Model };
+
+            Console.WriteLine("Not popular transport:");
+            foreach (var transport in NotPopularTransport)
+            {
+                Console.WriteLine($"{transport.Mark} {transport.Model}");
             }
         }
     }
