@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<ArrayOfClient>
+	<Client>
+		<ID>1</ID>
+		<Surname>Trukhan</Surname>
+		<Phone_number>+380633333333</Phone_number>
+	</Client>
+	<Client>
+		<ID>2</ID>
+		<Surname>Kruvano</Surname>
+		<Phone_number>+380633333334</Phone_number>
+	</Client>
+	<Client>
+		<ID>3</ID>
+		<Surname>Yaremko</Surname>
+		<Phone_number>+380633333335</Phone_number>
+	</Client>
+	<Client>
+		<ID>4</ID>
+		<Surname>Litvinchuk</Surname>
+		<Phone_number>+380633333336</Phone_number>
+	</Client>
+</ArrayOfClient>
+	
+	

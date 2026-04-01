@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ArrayOfLease_Contract>
+	<Lease_Contract>
+		<Client_ID> 1</Client_ID>
+		<Transport_ID>1 </Transport_ID>
+		<Lease_duration>2 </Lease_duration>
+	</Lease_Contract>
+	<Lease_Contract>
+		<Client_ID> 2</Client_ID>
+		<Transport_ID>2 </Transport_ID>
+		<Lease_duration>3 </Lease_duration>
+	</Lease_Contract>
+	<Lease_Contract>
+		<Client_ID> 3</Client_ID>
+		<Transport_ID>3 </Transport_ID>
+		<Lease_duration>1 </Lease_duration>
+	</Lease_Contract>
+	<Lease_Contract>
+		<Client_ID> 4</Client_ID>
+		<Transport_ID>4 </Transport_ID>
+		<Lease_duration>4 </Lease_duration>
+	</Lease_Contract>
+	<Lease_Contract>
+		<Client_ID> 1</Client_ID>
+		<Transport_ID>4 </Transport_ID>
+		<Lease_duration>2 </Lease_duration>
+	</Lease_Contract>
+	<Lease_Contract>
+		<Client_ID> 2</Client_ID>
+		<Transport_ID>1 </Transport_ID>
+		<Lease_duration>1</Lease_duration>
+	</Lease_Contract>
+	<Lease_Contract>
+		<Client_ID> 3</Client_ID>
+		<Transport_ID>1</Transport_ID>
+		<Lease_duration>2 </Lease_duration>
+	</Lease_Contract>
+	<Lease_Contract>
+		<Client_ID> 1</Client_ID>
+		<Transport_ID>2 </Transport_ID>
+		<Lease_duration>3 </Lease_duration>
+	</Lease_Contract>
+</ArrayOfLease_Contract>
+
+		
