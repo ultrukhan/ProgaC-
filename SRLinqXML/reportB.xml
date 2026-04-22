@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfDriverIncome xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DriverIncome>
+    <DriverSurname>Іванов</DriverSurname>
+    <TotalIncome>14946</TotalIncome>
+  </DriverIncome>
+  <DriverIncome>
+    <DriverSurname>Петров</DriverSurname>
+    <TotalIncome>19928</TotalIncome>
+  </DriverIncome>
+</ArrayOfDriverIncome>

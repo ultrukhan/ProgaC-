@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfFuel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Fuel>
+    <Name>Дизель</Name>
+    <PricePerLiter>1.2</PricePerLiter>
+  </Fuel>
+  <Fuel>
+    <Name>Бензин</Name>
+    <PricePerLiter>1.5</PricePerLiter>
+  </Fuel>
+</ArrayOfFuel>

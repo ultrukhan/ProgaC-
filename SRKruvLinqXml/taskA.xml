@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTaskA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TaskA>
+    <Genre>Fantasy</Genre>
+    <TotalBorrows>2</TotalBorrows>
+  </TaskA>
+  <TaskA>
+    <Genre>Dystopian</Genre>
+    <TotalBorrows>2</TotalBorrows>
+  </TaskA>
+  <TaskA>
+    <Genre>Classic</Genre>
+    <TotalBorrows>2</TotalBorrows>
+  </TaskA>
+</ArrayOfTaskA>
