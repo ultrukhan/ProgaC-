@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfReader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Reader>
+    <Id>1</Id>
+    <Surname>Smith</Surname>
+    <Age>30</Age>
+  </Reader>
+  <Reader>
+    <Id>2</Id>
+    <Surname>Johnson</Surname>
+    <Age>25</Age>
+  </Reader>
+  <Reader>
+    <Id>3</Id>
+    <Surname>Williams</Surname>
+    <Age>40</Age>
+  </Reader>
+</ArrayOfReader>
