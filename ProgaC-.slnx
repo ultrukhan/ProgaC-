@@ -3,6 +3,7 @@
   <Project Path="ConsoleApp1/ConsoleApp1.csproj" />
   <Project Path="GeminiTaskKruv/GeminiTaskKruv.csproj" Id="a5f7caf9-cec2-4a9c-8de7-bbb1e70ad2d0" />
   <Project Path="KrvLinqToXML/KrvLinqToXML.csproj" Id="d16e8914-929d-4912-93eb-5cf66540e21a" />
+  <Project Path="LinqToXMLMovie/LinqToXMLMovie.csproj" Id="52da53cb-8bb5-4f6f-9c52-654f826f803c" />
   <Project Path="NazarTask1/NazarTask1.csproj" Id="701144c3-2431-476b-8773-3e99de1781c5" />
   <Project Path="NewTaskXML_CSV/NewTaskXML_CSV.csproj" Id="75373f56-eb3f-4265-b88f-7d86ce37235e" />
   <Project Path="Prac0204/Prac0204.csproj" Id="925f1ff4-4588-4f78-9636-ac3c5bd92688" />
