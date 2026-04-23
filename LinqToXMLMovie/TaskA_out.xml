@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GenresTickCount>
+  <GenreStat>
+    <Genre>Фантастика</Genre>
+    <Count />3</GenreStat>
+  <GenreStat>
+    <Genre>Бойовик</Genre>
+    <Count />2</GenreStat>
+  <GenreStat>
+    <Genre>Мультфільм</Genre>
+    <Count />1</GenreStat>
+</GenresTickCount>

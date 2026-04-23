@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FilmDayVipTickets>
+  <Movie Title="Дюна 2">
+    <DateStat Date="2024-05-10T00:00:00">
+      <VipViewer>Олег</VipViewer>
+      <VipViewer>Максим</VipViewer>
+    </DateStat>
+  </Movie>
+  <Movie Title="Дедпул 3">
+    <DateStat Date="2024-05-12T00:00:00">
+      <VipViewer>Максим</VipViewer>
+    </DateStat>
+  </Movie>
+</FilmDayVipTickets>

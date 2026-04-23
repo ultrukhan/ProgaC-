@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBorrowRecord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BorrowRecord>
+    <ReaderId>1</ReaderId>
+    <BookId>1</BookId>
+    <DaysBorrowed>5</DaysBorrowed>
+    <Date>2024-04-10T00:00:00</Date>
+  </BorrowRecord>
+  <BorrowRecord>
+    <ReaderId>1</ReaderId>
+	<BookId>2</BookId>
+	<DaysBorrowed>5</DaysBorrowed>
+	<Date>2024-04-10T00:00:00</Date>
+  </BorrowRecord>
+  <BorrowRecord>
+    <ReaderId>2</ReaderId>
+    <BookId>2</BookId>
+    <DaysBorrowed>3</DaysBorrowed>
+    <Date>2024-04-15T00:00:00</Date>
+  </BorrowRecord>
+  <BorrowRecord>
+    <ReaderId>3</ReaderId>
+    <BookId>3</BookId>
+    <DaysBorrowed>7</DaysBorrowed>
+    <Date>2024-04-15T00:00:00</Date>
+  </BorrowRecord>
+  <BorrowRecord>
+    <ReaderId>1</ReaderId>
+    <BookId>4</BookId>
+    <DaysBorrowed>2</DaysBorrowed>
+    <Date>2024-04-25T00:00:00</Date>
+  </BorrowRecord>
+  <BorrowRecord>
+    <ReaderId>2</ReaderId>
+    <BookId>1</BookId>
+    <DaysBorrowed>4</DaysBorrowed>
+    <Date>2024-04-25T00:00:00</Date>
+  </BorrowRecord>
+  <BorrowRecord>
+    <ReaderId>3</ReaderId>
+    <BookId>2</BookId>
+    <DaysBorrowed>6</DaysBorrowed>
+    <Date>2024-04-26T00:00:00</Date>
+  </BorrowRecord>
+</ArrayOfBorrowRecord>

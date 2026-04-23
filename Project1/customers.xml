@@ -1,0 +1,12 @@
+﻿<ArrayOfCustomer>
+	<Customer>
+		<ID>101</ID>
+		<Surname>Ivanov</Surname>
+		<Phone_number>0931112233</Phone_number>
+	</Customer>
+	<Customer>
+		<ID>102</ID>
+		<Surname>Petrov</Surname>
+		<Phone_number>0674445566</Phone_number>
+	</Customer>
+</ArrayOfCustomer>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTaskC xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TaskC>
+    <Surname>Smith</Surname>
+    <BorrowedBooks>
+      <TaskCHelp>
+        <Date>2024-01-10T00:00:00</Date>
+        <BookTitles>
+          <string>The Hobbit</string>
+        </BookTitles>
+      </TaskCHelp>
+      <TaskCHelp>
+        <Date>2024-04-25T00:00:00</Date>
+        <BookTitles>
+          <string>The Great Gatsby</string>
+        </BookTitles>
+      </TaskCHelp>
+    </BorrowedBooks>
+  </TaskC>
+  <TaskC>
+    <Surname>Johnson</Surname>
+    <BorrowedBooks>
+      <TaskCHelp>
+        <Date>2024-02-15T00:00:00</Date>
+        <BookTitles>
+          <string>1984</string>
+        </BookTitles>
+      </TaskCHelp>
+      <TaskCHelp>
+        <Date>2024-05-25T00:00:00</Date>
+        <BookTitles>
+          <string>The Hobbit</string>
+        </BookTitles>
+      </TaskCHelp>
+    </BorrowedBooks>
+  </TaskC>
+  <TaskC>
+    <Surname>Williams</Surname>
+    <BorrowedBooks>
+      <TaskCHelp>
+        <Date>2024-03-15T00:00:00</Date>
+        <BookTitles>
+          <string>To Kill a Mockingbird</string>
+        </BookTitles>
+      </TaskCHelp>
+      <TaskCHelp>
+        <Date>2024-06-26T00:00:00</Date>
+        <BookTitles>
+          <string>1984</string>
+        </BookTitles>
+      </TaskCHelp>
+    </BorrowedBooks>
+  </TaskC>
+</ArrayOfTaskC>

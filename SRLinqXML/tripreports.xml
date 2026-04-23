@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTripReport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TripReport>
+    <Date>2024-06-01T00:00:00</Date>
+    <DriverId>1</DriverId>
+    <TruckId>101</TruckId>
+    <Distance>150</Distance>
+  </TripReport>
+  <TripReport>
+    <Date>2024-06-02T00:00:00</Date>
+    <DriverId>1</DriverId>
+    <TruckId>102</TruckId>
+    <Distance>100</Distance>
+  </TripReport>
+  <TripReport>
+    <Date>2024-06-03T00:00:00</Date>
+    <DriverId>2</DriverId>
+    <TruckId>101</TruckId>
+    <Distance>200</Distance>
+  </TripReport>
+  <TripReport>
+    <Date>2024-06-04T00:00:00</Date>
+    <DriverId>2</DriverId>
+    <TruckId>102</TruckId>
+    <Distance>120</Distance>
+  </TripReport>
+</ArrayOfTripReport>

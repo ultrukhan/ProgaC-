@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTruck xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Truck>
+    <Id>101</Id>
+    <LoadCapacity>20</LoadCapacity>
+    <FuelName>Дизель</FuelName>
+    <FuelConsumption>30</FuelConsumption>
+  </Truck>
+  <Truck>
+    <Id>102</Id>
+    <LoadCapacity>10</LoadCapacity>
+    <FuelName>Бензин</FuelName>
+    <FuelConsumption>20</FuelConsumption>
+  </Truck>
+</ArrayOfTruck>

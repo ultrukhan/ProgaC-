@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Book>
+    <Id>1</Id>
+    <Title>The Hobbit</Title>
+    <Genre>Fantasy</Genre>
+    <PricePerDay>1.5</PricePerDay>
+  </Book>
+  <Book>
+    <Id>2</Id>
+    <Title>1984</Title>
+    <Genre>Dystopian</Genre>
+    <PricePerDay>1</PricePerDay>
+  </Book>
+  <Book>
+    <Id>3</Id>
+    <Title>To Kill a Mockingbird</Title>
+    <Genre>Classic</Genre>
+    <PricePerDay>1.2</PricePerDay>
+  </Book>
+  <Book>
+    <Id>4</Id>
+    <Title>The Great Gatsby</Title>
+    <Genre>Classic</Genre>
+    <PricePerDay>1.3</PricePerDay>
+  </Book>
+</ArrayOfBook>

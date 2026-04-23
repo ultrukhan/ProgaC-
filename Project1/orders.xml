@@ -1,0 +1,12 @@
+﻿<ArrayOfOrder>
+	<Order>
+		<Customer_ID>101</Customer_ID>
+		<Medicine_ID>1</Medicine_ID>
+		<Quantity>3</Quantity>
+	</Order>
+	<Order>
+		<Customer_ID>102</Customer_ID>
+		<Medicine_ID>2</Medicine_ID>
+		<Quantity>1</Quantity>
+	</Order>
+</ArrayOfOrder>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Tickets>
+  <Ticket>
+    <ViewerId>1</ViewerId>
+    <MovieId>1</MovieId>
+    <SessionDate>2024-05-10T00:00:00</SessionDate>
+    <IsVIP>true</IsVIP>
+  </Ticket>
+  <Ticket>
+    <ViewerId>2</ViewerId>
+    <MovieId>1</MovieId>
+    <SessionDate>2024-05-10T00:00:00</SessionDate>
+    <IsVIP>false</IsVIP>
+  </Ticket>
+  <Ticket>
+    <ViewerId>1</ViewerId>
+    <MovieId>2</MovieId>
+    <SessionDate>2024-05-12T00:00:00</SessionDate>
+    <IsVIP>false</IsVIP>
+  </Ticket>
+  <Ticket>
+    <ViewerId>3</ViewerId>
+    <MovieId>2</MovieId>
+    <SessionDate>2024-05-12T00:00:00</SessionDate>
+    <IsVIP>true</IsVIP>
+  </Ticket>
+  <Ticket>
+    <ViewerId>2</ViewerId>
+    <MovieId>3</MovieId>
+    <SessionDate>2024-05-15T00:00:00</SessionDate>
+    <IsVIP>false</IsVIP>
+  </Ticket>
+  <Ticket>
+    <ViewerId>3</ViewerId>
+    <MovieId>1</MovieId>
+    <SessionDate>2024-05-10T00:00:00</SessionDate>
+    <IsVIP>true</IsVIP>
+  </Ticket>
+</Tickets>

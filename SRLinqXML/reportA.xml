@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfDriverTripCount xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DriverTripCount>
+    <DriverId>1</DriverId>
+    <TotalTrips>2</TotalTrips>
+  </DriverTripCount>
+  <DriverTripCount>
+    <DriverId>2</DriverId>
+    <TotalTrips>2</TotalTrips>
+  </DriverTripCount>
+</ArrayOfDriverTripCount>
