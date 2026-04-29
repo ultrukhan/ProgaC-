@@ -3,7 +3,44 @@ using System.Collections.Generic;
 using System.Linq;
 using System;
 
+// подати без повторень = додаткове групування 
 namespace MedProg {
+    using System;
+
+    namespace MedProg
+    {
+        public class Patient
+        {
+            // Звичайна авто-властивість
+            public int Id { get; set; }
+
+            private string _lastName;
+            public string LastName
+            {
+                get { return _lastName; }
+                set
+                {
+                    // Якщо прізвище пусте — кидаємо помилку
+                    if (string.IsNullOrWhiteSpace(value))
+                        throw new ArgumentException("Прізвище не може бути порожнім!");
+                    _lastName = value;
+                }
+            }
+
+            private int _age;
+            public int Age
+            {
+                get { return _age; }
+                set
+                {
+                    // Якщо вік від'ємний — кидаємо помилку
+                    if (value < 0)
+                        throw new ArgumentException("Вік не може бути менше нуля!");
+                    _age = value;
+                }
+            }
+        }
+    }
     public static class MedLogic {
         public static XElement CreateReceptionReport(IEnumerable<XElement> doctors, IEnumerable<XElement> patients, IEnumerable<XElement> departments, IEnumerable<XElement> receptions, int year) {
             var Data = (from r in receptions
