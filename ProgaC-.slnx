@@ -3,13 +3,20 @@
   <Project Path="ConsoleApp1/ConsoleApp1.csproj" />
   <Project Path="GeminiTaskKruv/GeminiTaskKruv.csproj" Id="a5f7caf9-cec2-4a9c-8de7-bbb1e70ad2d0" />
   <Project Path="KrvLinqToXML/KrvLinqToXML.csproj" Id="d16e8914-929d-4912-93eb-5cf66540e21a" />
+  <Project Path="KRvXMLTree_xUnit/KRvXMLTree_xUnit.csproj" Id="5cc8c120-1e51-4bdf-99ff-f5a3b3c513b2" />
+  <Project Path="LCrLinqToXML/LCrLinqToXML.csproj" Id="8a111bd7-923c-416d-adaf-15ac056005e3" />
   <Project Path="LinqToXMLMovie/LinqToXMLMovie.csproj" Id="52da53cb-8bb5-4f6f-9c52-654f826f803c" />
+  <Project Path="MEdic_Test/MEdic_Test.csproj" Id="74d50c41-5373-4873-b7de-001a291f1876" />
+  <Project Path="Medic_XmlTree_XUnit/Medic_XmlTree_XUnit.csproj" Id="a88f2d1b-e1e9-4768-a7e8-37e2d377193a" />
   <Project Path="NazarTask1/NazarTask1.csproj" Id="701144c3-2431-476b-8773-3e99de1781c5" />
   <Project Path="NewTaskXML_CSV/NewTaskXML_CSV.csproj" Id="75373f56-eb3f-4265-b88f-7d86ce37235e" />
+  <Project Path="OrderTests/OrderTests.csproj" Id="b798af06-ec90-46dc-8d8e-33ea4e3b956d" />
   <Project Path="Prac0204/Prac0204.csproj" Id="925f1ff4-4588-4f78-9636-ac3c5bd92688" />
   <Project Path="PrepCSV_LINQ_KRV/PrepCSV_LINQ_KRV.csproj" Id="15afd65a-4f09-421e-be17-7f6afe513cc2" />
   <Project Path="SRKruvLinqXml/SRKruvLinqXml.csproj" Id="40ec7a47-a5ce-410b-a002-653b88c9cb0b" />
   <Project Path="SRLinqXML/SRLinqXML.csproj" Id="42c763e1-4142-416f-9e85-4aaa57f864c7" />
   <Project Path="TaskLinqNew/TaskLinqNew.csproj" Id="7000a7e2-0618-4ec7-8d63-4614ae4c01e1" />
   <Project Path="TranspLinq/TranspLinq.csproj" Id="5ab5f223-7d1d-4718-b38d-be1890fd8d66" />
+  <Project Path="UnivTest/UnivTest.csproj" Id="e132cc8d-d2b5-4310-a85f-4ff866e48aab" />
+  <Project Path="Univ_XUnit_XmlTree/Univ_XUnit_XmlTree.csproj" Id="ae14e97d-c7a4-420d-881a-fe8da42e87ca" />
 </Solution>

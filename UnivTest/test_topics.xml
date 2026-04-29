@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Topics>
+	<Topic>
+		<Id>1</Id>
+		<TeacherId>1</TeacherId>
+		<Title>Integrals</Title>
+	</Topic>
+	<Topic>
+		<Id>2</Id>
+		<TeacherId>1</TeacherId>
+		<Title>Functions</Title>
+	</Topic>
+	<Topic>
+		<Id>3</Id>
+		<TeacherId>2</TeacherId>
+		<Title>FastAPI</Title>
+	</Topic>
+	<Topic>
+		<Id>4</Id>
+		<TeacherId>3</TeacherId>
+		<Title>Phrasal Verbs</Title>
+	</Topic>
+	<Topic>
+		<Id>5</Id>
+		<TeacherId>2</TeacherId>
+		<Title>Classes</Title>
+	</Topic>
+</Topics>	
+	
