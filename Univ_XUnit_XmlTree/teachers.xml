@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Teachers>
+	<Teacher>
+		<Id>1</Id>
+		<LastName>Smith</LastName>
+		<Department>Computer Science</Department>
+	</Teacher>
+	<Teacher>
+		<Id>2</Id>
+		<LastName>Trukhan</LastName>
+		<Department>Computer Science</Department>
+	</Teacher>
+	<Teacher>
+		<Id>3</Id>
+		<LastName>Johnson</LastName>
+		<Department>Computer Science</Department>
+	</Teacher>
+</Teachers>
