@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Brands>
+	<Brand>
+		<Id>1</Id>
+		<Name>brand1</Name>
+		<Country>Ukrane</Country>
+	</Brand>
+	<Brand>
+		<Id>2</Id>
+		<Name>brand2</Name>
+		<Country>Italy</Country>
+	</Brand>
+	<Brand>
+		<Id>3</Id>
+		<Name>brand3</Name>
+		<Country>Spain</Country>
+	</Brand>
+</Brands>	

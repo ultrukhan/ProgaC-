@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Buyments>
+	<Buyment>
+		<CarId>1</CarId>
+		<MenegerId>1</MenegerId>
+		<Price>4000</Price>
+		<Month>4</Month>
+	</Buyment>
+	<Buyment>
+		<CarId>1</CarId>
+		<MenegerId>3</MenegerId>
+		<Price>3900</Price>
+		<Month>4</Month>
+	</Buyment>
+	<Buyment>
+		<CarId>2</CarId>
+		<MenegerId>1</MenegerId>
+		<Price>3500</Price>
+		<Month>5</Month>
+	</Buyment>
+	<Buyment>
+		<CarId>2</CarId>
+		<MenegerId>2</MenegerId>
+		<Price>4300</Price>
+		<Month>4</Month>
+	</Buyment>
+	<Buyment>
+		<CarId>2</CarId>
+		<MenegerId>2</MenegerId>
+		<Price>3600</Price>
+		<Month>6</Month>
+	</Buyment>
+	<Buyment>
+		<CarId>3</CarId>
+		<MenegerId>2</MenegerId>
+		<Price>6000</Price>
+		<Month>4</Month>
+	</Buyment>
+	<Buyment>
+		<CarId>2</CarId>
+		<MenegerId>1</MenegerId>
+		<Price>3000</Price>
+		<Month>5</Month>
+	</Buyment>
+</Buyments>
