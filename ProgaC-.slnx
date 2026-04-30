@@ -13,6 +13,8 @@
   <Project Path="OrderTests/OrderTests.csproj" Id="b798af06-ec90-46dc-8d8e-33ea4e3b956d" />
   <Project Path="Prac0204/Prac0204.csproj" Id="925f1ff4-4588-4f78-9636-ac3c5bd92688" />
   <Project Path="PrepCSV_LINQ_KRV/PrepCSV_LINQ_KRV.csproj" Id="15afd65a-4f09-421e-be17-7f6afe513cc2" />
+  <Project Path="Salon_XmlTree_XUnitFiXtureClass/Salon_XmlTree_XUnitFiXtureClass.csproj" Id="d82df0d4-8530-49b8-9f54-3623be873b14" />
+  <Project Path="Salon_xUnit/Salon_xUnit.csproj" Id="4e6b2899-3f29-47e4-ba88-56220ec159a3" />
   <Project Path="SRKruvLinqXml/SRKruvLinqXml.csproj" Id="40ec7a47-a5ce-410b-a002-653b88c9cb0b" />
   <Project Path="SRLinqXML/SRLinqXML.csproj" Id="42c763e1-4142-416f-9e85-4aaa57f864c7" />
   <Project Path="TaskLinqNew/TaskLinqNew.csproj" Id="7000a7e2-0618-4ec7-8d63-4614ae4c01e1" />
