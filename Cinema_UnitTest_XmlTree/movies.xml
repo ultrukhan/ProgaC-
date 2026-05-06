@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Movies>
+	<Movie>
+		<Id>1</Id>
+		<ProducerId>1</ProducerId>
+		<Name>The Ritual</Name>	
+		<Genre>Horror</Genre>
+	</Movie>
+	<Movie>
+		<Id>2</Id>
+		<ProducerId>2</ProducerId>
+		<Name>Terrifier</Name>
+		<Genre>Horror</Genre>
+	</Movie>
+	<Movie>
+		<Id>3</Id>
+		<ProducerId>3</ProducerId>
+		<Name>Home Alone</Name>
+		<Genre>Comedy</Genre>
+	</Movie>
+	<Movie>
+		<Id>4</Id>
+		<ProducerId>3</ProducerId>
+		<Name>Spider Man</Name>
+		<Genre>Fantasy</Genre>
+	</Movie>
+	<Movie>
+		<Id>5</Id>
+		<ProducerId>2</ProducerId>
+		<Name>Doctor Strange</Name>
+		<Genre>Fantasy</Genre>
+	</Movie>
+</Movies>

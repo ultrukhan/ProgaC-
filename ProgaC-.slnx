@@ -1,5 +1,7 @@
 <Solution>
   <Project Path="AnnaTask/AnnaTask.csproj" Id="01a70ff8-f9ef-4a74-b001-a3c286f5e321" />
+  <Project Path="CInemaTests/CInemaTests.csproj" Id="40425388-f1fa-4302-b76c-819a18017f22" />
+  <Project Path="Cinema_UnitTest_XmlTree/Cinema_UnitTest_XmlTree.csproj" Id="9fb35fe6-3e67-462d-be97-b7cf8fb9db36" />
   <Project Path="ConsoleApp1/ConsoleApp1.csproj" />
   <Project Path="GeminiTaskKruv/GeminiTaskKruv.csproj" Id="a5f7caf9-cec2-4a9c-8de7-bbb1e70ad2d0" />
   <Project Path="KrvLinqToXML/KrvLinqToXML.csproj" Id="d16e8914-929d-4912-93eb-5cf66540e21a" />

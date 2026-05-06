@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Sessions>
+	<Session>
+		<Id>1</Id>
+		<MovieId>1</MovieId>
+		<HallId>1</HallId>
+		<Date>2026-05-01</Date>
+	</Session>
+	<Session>
+		<Id>2</Id>
+		<MovieId>1</MovieId>
+		<HallId>2</HallId>
+		<Date>2026-04-29</Date>
+	</Session>
+	<Session>
+		<Id>3</Id>
+		<MovieId>2</MovieId>
+		<HallId>3</HallId>
+		<Date>2026-05-02</Date>
+	</Session>
+	<Session>
+		<Id>4</Id>
+		<MovieId>4</MovieId>
+		<HallId>4</HallId>
+		<Date>2026-05-02</Date>
+	</Session>
+	<Session>
+		<Id>5</Id>
+		<MovieId>5</MovieId>
+		<HallId>2</HallId>
+		<Date>2026-05-03</Date>
+	</Session>
+	<Session>
+		<Id>6</Id>
+		<MovieId>3</MovieId>
+		<HallId>3</HallId>
+		<Date>2026-04-28</Date>
+	</Session>
+</Sessions>
