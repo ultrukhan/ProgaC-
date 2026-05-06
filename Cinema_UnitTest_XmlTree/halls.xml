@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Halls>
+	<Hall>
+		<Id>1</Id>
+		<CinemaId>1</CinemaId>
+		<Name>Hall1</Name>
+		<Capacity>70</Capacity>
+	</Hall>
+	<Hall>
+		<Id>2</Id>
+		<CinemaId>2</CinemaId>
+		<Name>Hall2</Name>
+		<Capacity>90</Capacity>
+	</Hall>
+	<Hall>
+		<Id>3</Id>
+		<CinemaId>3</CinemaId>
+		<Name>Hall3</Name>
+		<Capacity>60</Capacity>
+	</Hall>
+	<Hall>
+		<Id>4</Id>
+		<CinemaId>1</CinemaId>
+		<Name>Hall4</Name>
+		<Capacity>60</Capacity>
+	</Hall>
+</Halls>

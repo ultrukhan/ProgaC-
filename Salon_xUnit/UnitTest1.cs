@@ -13,7 +13,25 @@ namespace Salon_xUnit
         public IEnumerable<XElement> Buyments { get; private set; }
 
         public SalonDataFixture() {
-            Menegers = XDocument.Load("menegers.xml").Descendants("Meneger");
+            Menegers = XElement.Parse(@"
+<Menegers>
+	<Meneger>
+		<Id>1</Id>
+		<LastName>Trukhan</LastName>
+		<Stage>5</Stage>
+	</Meneger>
+	<Meneger>
+		<Id>2</Id>
+		<LastName>Kruvano</LastName>
+		<Stage>7</Stage>
+	</Meneger>
+	<Meneger>
+		<Id>3</Id>
+		<LastName>Yaremko</LastName>
+		<Stage>5</Stage>
+	</Meneger>
+</Menegers>
+            ").Descendants("Meneger");
             Brands = XDocument.Load("brands.xml").Descendants("Brand");
             Cars = XDocument.Load("cars.xml").Descendants("Car");
             Buyments = XDocument.Load("buyments.xml").Descendants("Buyment");
