@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Cars>
+	<Car>
+		<Id>1</Id>
+		<BrandId>1</BrandId>
+		<Model>model1</Model>
+		<Year>2018</Year>
+	</Car>
+	<Car>
+		<Id>2</Id>
+		<BrandId>2</BrandId>
+		<Model>model2</Model>
+		<Year>2015</Year>
+	</Car>
+	<Car>
+		<Id>3</Id>
+		<BrandId>3</BrandId>
+		<Model>model3</Model>
+		<Year>2019</Year>
+	</Car>
+</Cars>

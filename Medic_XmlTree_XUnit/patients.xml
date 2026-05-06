@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Patients>
+	<Patient>
+		<Id>1</Id>
+		<LastName>Litvinchuk</LastName>
+		<BirthYear>2010</BirthYear>
+	</Patient>
+	<Patient>
+		<Id>2</Id>
+		<LastName>Malchevska</LastName>
+		<BirthYear>2011</BirthYear>
+	</Patient>
+	<Patient>
+		<Id>3</Id>
+		<LastName>Dudchak</LastName>
+		<BirthYear>2015</BirthYear>
+	</Patient>
+	<Patient>
+		<Id>4</Id>
+		<LastName>Birisuk</LastName>
+		<BirthYear>2011</BirthYear>
+	</Patient>
+</Patients>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Orders>
+	<Order>
+		<Amount>500</Amount>
+		<Category>Tech</Category>
+	</Order>
+
+	<Order>
+		<Amount>200</Amount>
+		<Category>Food</Category>
+	</Order>
+
+	<Order>
+		<Amount>1500</Amount>
+		<Category>Tech</Category>
+	</Order>
+
+	<Order>
+		<Amount>1200</Amount>
+		<Category>Food</Category>
+	</Order>
+
+	<Order>
+		<Amount>3000</Amount>
+		<Category>Tech</Category>
+	</Order>
+
+	<Order>
+		<Amount>800</Amount>
+		<Category>Clothing</Category>
+	</Order>
+</Orders>

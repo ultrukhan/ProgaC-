@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Courses>
+	<Course>
+		<Id>1</Id>
+		<Title>MATH</Title>
+	</Course>
+	<Course>
+		<Id>2</Id>
+		<Title>English</Title>
+	</Course>
+	<Course>
+		<Id>3</Id>
+		<Title>Python</Title>
+	</Course>
+</Courses>	

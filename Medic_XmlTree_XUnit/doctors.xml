@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Doctors>
+	<Doctor>
+		<Id>1</Id>
+		<LastName>Kruvano</LastName>
+		<Specialization>Surgeon</Specialization>
+	</Doctor>
+	<Doctor>
+		<Id>2</Id>
+		<LastName>Trukhan</LastName>
+		<Specialization>Okulist</Specialization>
+	</Doctor>
+	<Doctor>
+		<Id>3</Id>
+		<LastName>Yaremko</LastName>
+		<Specialization>Cardiolog</Specialization>
+	</Doctor>
+</Doctors>
