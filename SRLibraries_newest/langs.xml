@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Langs>
+	<Lang>
+		<Id>1</Id>
+		<Name>Ukrainian</Name>
+	</Lang>
+	<Lang>
+		<Id>2</Id>
+		<Name>English</Name>
+	</Lang>
+	<Lang>
+		<Id>3</Id>
+		<Name>Spanish</Name>
+	</Lang>
+</Langs>
