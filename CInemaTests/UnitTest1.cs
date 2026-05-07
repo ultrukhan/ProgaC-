@@ -6,7 +6,7 @@ using System.Linq;
 using System.Xml.Linq;
 namespace CInemaTests
 {
-    class CinemaFixture {
+    public class CinemaFixture {
         public IEnumerable<XElement> Movies { get; private set; }
         public IEnumerable<XElement> Halls { get; private set; }
         public IEnumerable<XElement> Sessions { get; private set; }
@@ -223,9 +223,9 @@ namespace CInemaTests
     public class UnitTest1: IClassFixture<CinemaFixture>
     {
 		private readonly CinemaFixture _fixture;
-		public UnitTest1()
+		public UnitTest1(CinemaFixture fixture)
 		{
-			_fixture = new CinemaFixture();
+			_fixture = fixture;
         }
 
         [Fact]

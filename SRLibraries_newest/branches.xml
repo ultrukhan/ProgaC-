@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Branches>
+	<Branch>
+		<Id>1</Id>
+		<Name>Branch1</Name>
+		<City>Lviv</City>
+	</Branch>
+	<Branch>
+		<Id>2</Id>
+		<Name>Branch2</Name>
+		<City>Kyiv</City>
+	</Branch>
+	<Branch>
+		<Id>3</Id>
+		<Name>Branch3</Name>
+		<City>Lviv</City>
+	</Branch>
+</Branches>
