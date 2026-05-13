@@ -24,6 +24,8 @@
   <Project Path="LibraryTEsts/LibraryTEsts.csproj" Id="4d066ca3-b8a5-4b29-acb7-2bcf43da4bb6" />
   <Project Path="MEdic_Test/MEdic_Test.csproj" Id="74d50c41-5373-4873-b7de-001a291f1876" />
   <Project Path="Medic_XmlTree_XUnit/Medic_XmlTree_XUnit.csproj" Id="a88f2d1b-e1e9-4768-a7e8-37e2d377193a" />
+  <Project Path="OnlineShopSR/OnlineShopSR.csproj" Id="aaa04900-cd07-4d2a-9447-f2af45b1a027" />
+  <Project Path="OnlineShopTests/OnlineShopTests.csproj" Id="90f34531-88eb-4281-800c-22e239cb6578" />
   <Project Path="Salon_XmlTree_XUnitFiXtureClass/Salon_XmlTree_XUnitFiXtureClass.csproj" Id="d82df0d4-8530-49b8-9f54-3623be873b14" />
   <Project Path="Salon_xUnit/Salon_xUnit.csproj" Id="4e6b2899-3f29-47e4-ba88-56220ec159a3" />
   <Project Path="SRLibraries_newest/SRLibraries_newest.csproj" Id="cd9c1e4b-ac4c-4d36-afe3-7d8813fda9a0" />
