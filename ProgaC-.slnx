@@ -19,6 +19,8 @@
   </Folder>
   <Project Path="CInemaTests/CInemaTests.csproj" Id="40425388-f1fa-4302-b76c-819a18017f22" />
   <Project Path="Cinema_UnitTest_XmlTree/Cinema_UnitTest_XmlTree.csproj" Id="9fb35fe6-3e67-462d-be97-b7cf8fb9db36" />
+  <Project Path="FClubsSR/FClubsSR.csproj" Id="92be6021-20ab-4895-8c3a-e75d3a92316e" />
+  <Project Path="FitnesssTests/FitnesssTests.csproj" Id="950d46a1-afe3-4ba3-b552-916ce780674c" />
   <Project Path="LibraryTEsts/LibraryTEsts.csproj" Id="4d066ca3-b8a5-4b29-acb7-2bcf43da4bb6" />
   <Project Path="MEdic_Test/MEdic_Test.csproj" Id="74d50c41-5373-4873-b7de-001a291f1876" />
   <Project Path="Medic_XmlTree_XUnit/Medic_XmlTree_XUnit.csproj" Id="a88f2d1b-e1e9-4768-a7e8-37e2d377193a" />
