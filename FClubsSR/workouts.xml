@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Workouts>
+	<Workout>
+		<Id>1</Id>
+		<ClubId>1</ClubId>
+		<ClientId>10</ClientId>
+		<CoachId>100</CoachId>
+		<Date>2026-05-01</Date>
+		<Price>500</Price>
+	</Workout>
+	<Workout>
+		<Id>2</Id>
+		<ClubId>1</ClubId>
+		<ClientId>10</ClientId>
+		<CoachId>100</CoachId>
+		<Date>2026-05-02</Date>
+		<Price>500</Price>
+	</Workout>
+	<Workout>
+		<Id>3</Id>
+		<ClubId>1</ClubId>
+		<ClientId>10</ClientId>
+		<CoachId>101</CoachId>
+		<Date>2026-05-02</Date>
+		<Price>600</Price>
+	</Workout>
+
+	<Workout>
+		<Id>4</Id>
+		<ClubId>2</ClubId>
+		<ClientId>11</ClientId>
+		<CoachId>102</CoachId>
+		<Date>2026-05-04</Date>
+		<Price>800</Price>
+	</Workout>
+	<Workout>
+		<Id>5</Id>
+		<ClubId>2</ClubId>
+		<ClientId>11</ClientId>
+		<CoachId>101</CoachId>
+		<Date>2026-04-25</Date>
+		<Price>900</Price>
+	</Workout>
+
+	<Workout>
+		<Id>6</Id>
+		<ClubId>1</ClubId>
+		<ClientId>12</ClientId>
+		<CoachId>100</CoachId>
+		<Date>2026-05-05</Date>
+		<Price>700</Price>
+	</Workout>
+</Workouts>
