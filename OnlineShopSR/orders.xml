@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Orders>
+	<Order>
+		<Id>1</Id>
+		<ClientId>1</ClientId>
+		<ProductId>1</ProductId>
+		<Date>2026-05-01</Date>
+		<NumOf>10</NumOf>
+	</Order>
+	<Order>
+		<Id>2</Id>
+		<ClientId>2</ClientId>
+		<ProductId>2</ProductId>
+		<Date>2026-05-01</Date>
+		<NumOf>1</NumOf>
+	</Order>
+	<Order>
+		<Id>3</Id>
+		<ClientId>3</ClientId>
+		<ProductId>3</ProductId>
+		<Date>2026-05-02</Date>
+		<NumOf>2</NumOf>
+	</Order>
+	<Order>
+		<Id>4</Id>
+		<ClientId>2</ClientId>
+		<ProductId>1</ProductId>
+		<Date>2026-05-03</Date>
+		<NumOf>5</NumOf>
+	</Order>
+	<Order>
+		<Id>6</Id>
+		<ClientId>1</ClientId>
+		<ProductId>3</ProductId>
+		<Date>2026-04-29</Date>
+		<NumOf>1</NumOf>
+	</Order>
+	<Order>
+		<Id>7</Id>
+		<ClientId>3</ClientId>
+		<ProductId>1</ProductId>
+		<Date>2026-05-02</Date>
+		<NumOf>10</NumOf>
+	</Order>
+</Orders>
+

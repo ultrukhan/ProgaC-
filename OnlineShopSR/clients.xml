@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Clients>
+	<Client>
+		<Id>1</Id>
+		<LastName>Yaremko</LastName>
+		<City>Lviv</City>
+	</Client>
+	<Client>
+		<Id>2</Id>
+		<LastName>Kruvano</LastName>
+		<City>Lviv</City>
+	</Client>
+	<Client>
+		<Id>3</Id>
+		<LastName>Trukhan</LastName>
+		<City>Kyiv</City>
+	</Client>
+</Clients>
