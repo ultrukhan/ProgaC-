@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ArrayOfTransport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Transport xsi:type="Car">
+		<ID>1</ID>
+		<Mark>Toyota</Mark>
+		<Model>Camry</Model>
+		<Price_per_day>1500</Price_per_day>
+		<Car_body>Седан</Car_body>
+	</Transport>
+	<Transport xsi:type="Car">
+		<ID>2</ID>
+		<Mark>Skoda</Mark>
+		<Model>Octavia</Model>
+		<Price_per_day>1200</Price_per_day>
+		<Car_body>Універсал</Car_body>
+	</Transport>
+	<Transport xsi:type="Truck">
+		<ID>3</ID>
+		<Mark>Volvo</Mark>
+		<Model>FH16</Model>
+		<Price_per_day>4000</Price_per_day>
+		<Load_capacity>20</Load_capacity>
+	</Transport>
+	<Transport xsi:type="Truck">
+		<ID>4</ID>
+		<Mark>MAN</Mark>
+		<Model>TGX</Model>
+		<Price_per_day>3500</Price_per_day>
+		<Load_capacity>18</Load_capacity>
+	</Transport>
+</ArrayOfTransport>
