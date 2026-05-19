@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Clients>
+	<Client>
+		<Id>10</Id>
+		<LastName>Yaremko</LastName>
+	</Client>
+	<Client>
+		<Id>11</Id>
+		<LastName>Kruvano</LastName>
+	</Client>
+	<Client>
+		<Id>12</Id>
+		<LastName>Trukhan</LastName>
+	</Client>
+</Clients>

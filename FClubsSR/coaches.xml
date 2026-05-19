@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Coaches>
+	<Coach>
+		<Id>100</Id>
+		<LastName>Malchevska</LastName>
+		<Role>Yoga</Role>
+	</Coach>
+	<Coach>
+		<Id>101</Id>
+		<LastName>Litvinchuk</LastName>
+		<Role>Crossfit</Role>
+	</Coach>
+	<Coach>
+		<Id>102</Id>
+		<LastName>Stetsiv</LastName>
+		<Role>Boks</Role>
+	</Coach>
+</Coaches>

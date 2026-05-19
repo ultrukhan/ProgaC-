@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Products>
+	<Product>
+		<Id>1</Id>
+		<Name>Apple</Name>
+		<CategoryId>2</CategoryId>
+		<Price>50</Price>
+	</Product>
+	<Product>
+		<Id>2</Id>
+		<Name>Laptop</Name>
+		<CategoryId>1</CategoryId>
+		<Price>2000</Price>
+	</Product>
+	<Product>
+		<Id>3</Id>
+		<Name>Sweater</Name>
+		<CategoryId>3</CategoryId>
+		<Price>300</Price>
+	</Product>
+</Products>

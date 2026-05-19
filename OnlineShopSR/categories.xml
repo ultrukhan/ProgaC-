@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Categories>
+	<Category>
+		<Id>1</Id>
+		<Name>Tech</Name>
+	</Category>
+	<Category>
+		<Id>2</Id>
+		<Name>Food</Name>
+	</Category>
+	<Category>
+		<Id>3</Id>
+		<Name>Clothes</Name>
+	</Category>
+</Categories>

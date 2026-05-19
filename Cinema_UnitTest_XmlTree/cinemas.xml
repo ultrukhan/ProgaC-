@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Cinemas>
+	<Cinema>
+		<Id>1</Id>
+		<Name>Cinema1</Name>
+		<City>Lviv</City>
+	</Cinema>
+	<Cinema>
+		<Id>2</Id>
+		<Name>Cinema2</Name>
+		<City>Kyiv</City>
+	</Cinema>
+	<Cinema>
+		<Id>3</Id>
+		<Name>Cinema3</Name>
+		<City>Lviv</City>
+	</Cinema>
+</Cinemas>

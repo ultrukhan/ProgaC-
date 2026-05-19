@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Authors>
+	<Author>
+		<Id>1</Id>
+		<LastName>Trukhan</LastName>
+	</Author>
+	<Author>
+		<Id>2</Id>
+		<LastName>Kruvano</LastName>
+	</Author>
+	<Author>
+		<Id>3</Id>
+		<LastName>Yaremko</LastName>
+	</Author>
+</Authors>
