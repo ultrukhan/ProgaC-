@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Astronoms>
+	<Astronom>
+		<AstrId>1</AstrId>
+		<Surname>Myzuchyk</Surname>
+		<Stupin>Docent</Stupin>
+	</Astronom>
+	<Astronom>
+		<AstrId>2</AstrId>
+		<Surname>Holovatuy</Surname>
+		<Stupin>Profesor</Stupin>
+	</Astronom>
+	<Astronom>
+		<AstrId>3</AstrId>
+		<Surname>Tarasyk</Surname>
+		<Stupin>Docent</Stupin>
+	</Astronom>
+</Astronoms>	

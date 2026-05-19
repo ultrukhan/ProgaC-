@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Seanss>
+	<Seans>
+		<Date>2025-04-04</Date>
+		<Truv>1</Truv>
+		<CObjId>1</CObjId>
+		<AstrId>1</AstrId>
+		<RTelId>1</RTelId>
+	</Seans>
+	<Seans>
+		<Date>2025-05-05</Date>
+		<Truv>2</Truv>
+		<CObjId>2</CObjId>
+		<AstrId>2</AstrId>
+		<RTelId>2</RTelId>
+	</Seans>
+	<Seans>
+		<Date>2025-07-07</Date>
+		<Truv>3</Truv>
+		<CObjId>3</CObjId>
+		<AstrId>3</AstrId>
+		<RTelId>3</RTelId>
+	</Seans>
+	<Seans>
+		<Date>2025-04-04</Date>
+		<Truv>5</Truv>
+		<CObjId>1</CObjId>
+		<AstrId>1</AstrId>
+		<RTelId>1</RTelId>
+	</Seans>
+</Seanss>	
