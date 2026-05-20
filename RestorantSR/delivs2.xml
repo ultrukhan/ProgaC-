@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Deliveries>
+	<Delivery>
+		<Id>5</Id>
+		<RestorantId>1</RestorantId>
+		<ClientId>3</ClientId>
+		<DishId>2</DishId>
+		<Date>2026-04-22</Date>
+		<NumOf>2</NumOf>
+	</Delivery>
+	<Delivery>
+		<Id>6</Id>
+		<RestorantId>3</RestorantId>
+		<ClientId>1</ClientId>
+		<DishId>1</DishId>
+		<Date>2026-05-27</Date>
+		<NumOf>1</NumOf>
+	</Delivery>
+	<Delivery>
+		<Id>7</Id>
+		<RestorantId>1</RestorantId>
+		<ClientId>2</ClientId>
+		<DishId>1</DishId>
+		<Date>2026-05-21</Date>
+		<NumOf>2</NumOf>
+	</Delivery>
+	<Delivery>
+		<Id>8</Id>
+		<RestorantId>2</RestorantId>
+		<ClientId>1</ClientId>
+		<DishId>3</DishId>
+		<Date>2026-05-10</Date>
+		<NumOf>3</NumOf>
+	</Delivery>
+</Deliveries>
