@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Brons>
+	<Bron>
+		<Id>1</Id>
+		<GuestId>1</GuestId>
+		<CategId>1</CategId>
+		<BDate>2026-06-01</BDate>
+		<ZDate>2026-06-20</ZDate>
+		<Nights>3</Nights>
+	</Bron>
+	<Bron>
+		<Id>2</Id>
+		<GuestId>2</GuestId>
+		<CategId>2</CategId>
+		<BDate>2026-06-01</BDate>
+		<ZDate>2026-06-10</ZDate>
+		<Nights>4</Nights>
+	</Bron>
+	<Bron>
+		<Id>3</Id>
+		<GuestId>3</GuestId>
+		<CategId>3</CategId>
+		<BDate>2026-06-05</BDate>
+		<ZDate>2026-06-22</ZDate>
+		<Nights>4</Nights>
+	</Bron>
+	<Bron>
+		<Id>4</Id>
+		<GuestId>1</GuestId>
+		<CategId>4</CategId>
+		<BDate>2026-05-29</BDate>
+		<ZDate>2026-06-07</ZDate>
+		<Nights>2</Nights>
+	</Bron>
+</Brons>
+	

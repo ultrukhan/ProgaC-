@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Visits>
+	<Visit>
+		<Id>4</Id>
+		<PatientId>1</PatientId>
+		<DoctorId>3</DoctorId>
+		<ServiceId>2</ServiceId>
+		<Date>2026-04-06</Date>
+		<Minutes>40</Minutes>
+	</Visit>
+	<Visit>
+		<Id>5</Id>
+		<PatientId>3</PatientId>
+		<DoctorId>1</DoctorId>
+		<ServiceId>2</ServiceId>
+		<Date>2026-06-12</Date>
+		<Minutes>60</Minutes>
+	</Visit>
+	<Visit>
+		<Id>6</Id>
+		<PatientId>2</PatientId>
+		<DoctorId>1</DoctorId>
+		<ServiceId>1</ServiceId>
+		<Date>2026-06-22</Date>
+		<Minutes>30</Minutes>
+	</Visit>
+</Visits>

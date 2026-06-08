@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Guests>
+	<Guest>
+		<Id>1</Id>
+		<LastName>Kruvano</LastName>
+		<Phone>+3809858238</Phone>
+	</Guest>
+	<Guest>
+		<Id>2</Id>
+		<LastName>Trukhan</LastName>
+		<Phone>+3809883841</Phone>
+	</Guest>
+	<Guest>
+		<Id>3</Id>
+		<LastName>Litvinchuk</LastName>
+		<Phone>+3809814839</Phone>
+	</Guest>
+</Guests>

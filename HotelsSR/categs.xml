@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Categs>
+	<Categ>
+		<Id>1</Id>
+		<HotelId>1</HotelId>
+		<Name>L</Name>
+		<BasePrice>150</BasePrice>
+	</Categ>
+	<Categ>
+		<Id>2</Id>
+		<HotelId>2</HotelId>
+		<Name>M</Name>
+		<BasePrice>200</BasePrice>
+	</Categ>
+	<Categ>
+		<Id>3</Id>
+		<HotelId>3</HotelId>
+		<Name>L</Name>
+		<BasePrice>250</BasePrice>
+	</Categ>
+	<Categ>
+		<Id>4</Id>
+		<HotelId>2</HotelId>
+		<Name>VIP</Name>
+		<BasePrice>400</BasePrice>
+	</Categ>
+</Categs>
