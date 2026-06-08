@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Services>
+	<Service>
+		<Id>1</Id>
+		<Name>S1</Name>
+		<BasePrice>1500</BasePrice>
+	</Service>
+	<Service>
+		<Id>2</Id>
+		<Name>S2</Name>
+		<BasePrice>1000</BasePrice>
+	</Service>
+	<Service>
+		<Id>3</Id>
+		<Name>S3</Name>
+		<BasePrice>700</BasePrice>
+	</Service>
+</Services>

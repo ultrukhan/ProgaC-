@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Orends>
+	<Orend>
+		<Id>5</Id>
+		<ClientId>3</ClientId>
+		<CarId>1</CarId>
+		<OrDate>2026-07-01</OrDate>
+		<Days>5</Days>
+	</Orend>
+	<Orend>
+		<Id>6</Id>
+		<ClientId>1</ClientId>
+		<CarId>4</CarId>
+		<OrDate>2026-06-25</OrDate>
+		<Days>10</Days>
+	</Orend>
+	<Orend>
+		<Id>7</Id>
+		<ClientId>2</ClientId>
+		<CarId>3</CarId>
+		<OrDate>2026-06-20</OrDate>
+		<Days>8</Days>
+	</Orend>
+	<Orend>
+		<Id>8</Id>
+		<ClientId>3</ClientId>
+		<CarId>1</CarId>
+		<OrDate>2026-06-01</OrDate>
+		<Days>3</Days>
+	</Orend>
+</Orends>

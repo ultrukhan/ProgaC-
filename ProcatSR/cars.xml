@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Cars>
+	<Car>
+		<Id>1</Id>
+		<OfficeId>1</OfficeId>
+		<Mark>McLaren</Mark>
+		<Class>C1</Class>
+		<BasePrice>400</BasePrice>
+	</Car>
+	<Car>
+		<Id>2</Id>
+		<OfficeId>2</OfficeId>
+		<Mark>Ferrari</Mark>
+		<Class>C2</Class>
+		<BasePrice>250</BasePrice>
+	</Car>
+	<Car>
+		<Id>3</Id>
+		<OfficeId>3</OfficeId>
+		<Mark>Mercedes</Mark>
+		<Class>C1</Class>
+		<BasePrice>150</BasePrice>
+	</Car>
+	<Car>
+		<Id>4</Id>
+		<OfficeId>2</OfficeId>
+		<Mark>Audi</Mark>
+		<Class>C3</Class>
+		<BasePrice>100</BasePrice>
+	</Car>
+</Cars>

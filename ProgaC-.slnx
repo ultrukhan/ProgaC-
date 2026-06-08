@@ -17,15 +17,24 @@
     <Project Path="TaskLinqNew/TaskLinqNew.csproj" Id="7000a7e2-0618-4ec7-8d63-4614ae4c01e1" />
     <Project Path="TranspLinq/TranspLinq.csproj" Id="5ab5f223-7d1d-4718-b38d-be1890fd8d66" />
   </Folder>
+  <Folder Name="/Solution Items/">
+    <File Path="Erors_Solutions.txt" />
+  </Folder>
   <Project Path="CInemaTests/CInemaTests.csproj" Id="40425388-f1fa-4302-b76c-819a18017f22" />
   <Project Path="Cinema_UnitTest_XmlTree/Cinema_UnitTest_XmlTree.csproj" Id="9fb35fe6-3e67-462d-be97-b7cf8fb9db36" />
+  <Project Path="ClinicSR/ClinicSR.csproj" Id="ae5884d5-2c26-40a7-80d4-b70eeeb7c569" />
+  <Project Path="ClinicSR_Tests/ClinicSR_Tests.csproj" Id="bb33596b-5481-4c2e-ab26-09d15530f68e" />
   <Project Path="FClubsSR/FClubsSR.csproj" Id="92be6021-20ab-4895-8c3a-e75d3a92316e" />
   <Project Path="FitnesssTests/FitnesssTests.csproj" Id="950d46a1-afe3-4ba3-b552-916ce780674c" />
+  <Project Path="HotelSR_Tests/HotelSR_Tests.csproj" Id="b913a827-7050-4d18-b5f4-6a4540614674" />
+  <Project Path="HotelsSR/HotelsSR.csproj" Id="d8364536-e952-4914-a8a5-8cf7ff3dd1fe" />
   <Project Path="LibraryTEsts/LibraryTEsts.csproj" Id="4d066ca3-b8a5-4b29-acb7-2bcf43da4bb6" />
   <Project Path="MEdic_Test/MEdic_Test.csproj" Id="74d50c41-5373-4873-b7de-001a291f1876" />
   <Project Path="Medic_XmlTree_XUnit/Medic_XmlTree_XUnit.csproj" Id="a88f2d1b-e1e9-4768-a7e8-37e2d377193a" />
   <Project Path="OnlineShopSR/OnlineShopSR.csproj" Id="aaa04900-cd07-4d2a-9447-f2af45b1a027" />
   <Project Path="OnlineShopTests/OnlineShopTests.csproj" Id="90f34531-88eb-4281-800c-22e239cb6578" />
+  <Project Path="ProcatSR/ProcatSR.csproj" Id="ff4e2429-769e-4a37-a0eb-22909e506500" />
+  <Project Path="ProcatSRTest/ProcatSRTest.csproj" Id="6d5b0245-d596-43c3-8567-3bdd68770655" />
   <Project Path="RestorantSR/RestorantSR.csproj" Id="5703db4c-f135-48d0-b076-8579fd54e6f5" />
   <Project Path="RestorantTest/RestorantTest.csproj" Id="ef7b3b67-d02b-45aa-a44b-2d636569badc" />
   <Project Path="Salon_XmlTree_XUnitFiXtureClass/Salon_XmlTree_XUnitFiXtureClass.csproj" Id="d82df0d4-8530-49b8-9f54-3623be873b14" />
