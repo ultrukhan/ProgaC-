@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Restorants>
+	<Restorant>
+		<Id>1</Id>
+		<Name>Res1</Name>
+		<City>Lviv</City>
+	</Restorant>
+	<Restorant>
+		<Id>2</Id>
+		<Name>Res2</Name>
+		<City>Kyiv</City>
+	</Restorant>
+	<Restorant>
+		<Id>3</Id>
+		<Name>Res3</Name>
+		<City>Lviv</City>
+	</Restorant>
+</Restorants>

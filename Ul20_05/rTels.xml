@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<RTels>
+	<RTel>
+		<RTelId>1</RTelId>
+		<Title>Teleskop1</Title>
+		<Diametr>3</Diametr>
+	</RTel>
+	<RTel>
+		<RTelId>2</RTelId>
+		<Title>Teleskop2</Title>
+		<Diametr>5</Diametr>
+	</RTel>
+	<RTel>
+		<RTelId>3</RTelId>
+		<Title>Teleskop3</Title>
+		<Diametr>7</Diametr>
+	</RTel>
+</RTels>	

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Dishes>
+	<Dish>
+		<Id>1</Id>
+		<Name>D1</Name>
+		<Category>C1</Category>
+		<Price>150</Price>
+	</Dish>
+	<Dish>
+		<Id>2</Id>
+		<Name>D2</Name>
+		<Category>C2</Category>
+		<Price>200</Price>
+	</Dish>
+	<Dish>
+		<Id>3</Id>
+		<Name>D3</Name>
+		<Category>C1</Category>
+		<Price>300</Price>
+	</Dish>
+</Dishes>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<CObjs>
+	<CObj>
+		<CObjId>1</CObjId>
+		<Name>Object1</Name>
+		<Price>100</Price>
+	</CObj>
+	<CObj>
+		<CObjId>2</CObjId>
+		<Name>Object2</Name>
+		<Price>200</Price>
+	</CObj>
+	<CObj>
+		<CObjId>3</CObjId>
+		<Name>Object3</Name>
+		<Price>300</Price>
+	</CObj>
+</CObjs>	

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Offices>
+	<Office>
+		<Id>1</Id>
+		<Name>O1</Name>
+		<City>Lviv</City>
+	</Office>
+	<Office>
+		<Id>2</Id>
+		<Name>O2</Name>
+		<City>Lviv</City>
+	</Office>
+	<Office>
+		<Id>3</Id>
+		<Name>O3</Name>
+		<City>Kyiv</City>
+	</Office>
+</Offices>
