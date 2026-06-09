@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Flights>
+	<Flight>
+		<Id>101</Id>
+		<DestinationId>1</DestinationId>
+		<AirplaneModel>Boeing 737</AirplaneModel>
+	</Flight>
+	<Flight>
+		<Id>102</Id>
+		<DestinationId>2</DestinationId>
+		<AirplaneModel>Airbus A320</AirplaneModel>
+	</Flight>
+	<Flight>
+		<Id>103</Id>
+		<DestinationId>3</DestinationId>
+		<AirplaneModel>Boeing 737</AirplaneModel>
+	</Flight>
+	<Flight>
+		<Id>104</Id>
+		<DestinationId>2</DestinationId>
+		<AirplaneModel>Boeing 737</AirplaneModel>
+	</Flight>
+</Flights>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Poslugas>
+	<Posluga>
+		<Po_id>1</Po_id>
+		<Title>Checkup</Title>
+		<BasePrice>500</BasePrice>
+	</Posluga>
+	<Posluga>
+		<Po_id>2</Po_id>
+		<Title>Operation</Title>
+		<BasePrice>3000</BasePrice>
+	</Posluga>
+</Poslugas>

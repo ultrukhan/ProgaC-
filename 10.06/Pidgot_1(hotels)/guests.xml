@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Guests>
+	<Guest>
+		<G_id>1</G_id>
+		<Surname>Trukhan</Surname>
+		<Number>0978097500</Number>
+	</Guest>
+	<Guest>
+		<G_id>2</G_id>
+		<Surname>Forti</Surname>
+		<Number>0682525358</Number>
+	</Guest>
+	<Guest>
+		<G_id>3</G_id>
+		<Surname>Kruvano</Surname>
+		<Number>0986332629</Number>
+	</Guest>
+</Guests>

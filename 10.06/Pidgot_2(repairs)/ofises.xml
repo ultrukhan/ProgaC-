@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Ofiss>
+	<Ofis>
+		<O_id>1</O_id>
+		<Name>Ofise1</Name>
+		<City>Lviv</City>
+	</Ofis>
+	<Ofis>
+		<O_id>2</O_id>
+		<Name>Ofise2</Name>
+		<City>Kyiv</City>
+	</Ofis>
+	<Ofis>
+		<O_id>3</O_id>
+		<Name>Ofise3</Name>
+		<City>Dnipro</City>
+	</Ofis>
+	<Ofis>
+		<O_id>4</O_id>
+		<Name>Ofise4</Name>
+		<City>Odesa</City>
+	</Ofis>
+</Ofiss>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Tovar>
+	<Tov>
+		<T_id>1</T_id>
+		<Ca_id>1</Ca_id>
+		<Name>Tov1</Name>
+		<Price>100</Price>
+	</Tov>
+	<Tov>
+		<T_id>2</T_id>
+		<Ca_id>2</Ca_id>
+		<Name>Tov2</Name>
+		<Price>200</Price>
+	</Tov>
+	<Tov>
+		<T_id>3</T_id>
+		<Ca_id>3</Ca_id>
+		<Name>Tov3</Name>
+		<Price>300</Price>
+	</Tov>
+</Tovar>

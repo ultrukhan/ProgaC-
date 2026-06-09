@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Datas>
+	<Data>
+		<D_id>6</D_id>
+		<C_id>3</C_id>
+		<A_id>2</A_id>
+		<StartDate>2026-01-08</StartDate>
+		<Days>12</Days>
+	</Data>
+	<Data>
+		<D_id>7</D_id>
+		<C_id>1</C_id>
+		<A_id>4</A_id>
+		<StartDate>2026-02-06</StartDate>
+		<Days>5</Days>
+	</Data>
+	<Data>
+		<D_id>8</D_id>
+		<C_id>2</C_id>
+		<A_id>3</A_id>
+		<StartDate>2026-06-01</StartDate>
+		<Days>10</Days>
+	</Data>
+	<Data>
+		<D_id>9</D_id>
+		<C_id>3</C_id>
+		<A_id>2</A_id>
+		<StartDate>2026-05-12</StartDate>
+		<Days>4</Days>
+	</Data>
+	<Data>
+		<D_id>10</D_id>
+		<C_id>1</C_id>
+		<A_id>1</A_id>
+		<StartDate>2025-12-07</StartDate>
+		<Days>8</Days>
+	</Data>
+</Datas>

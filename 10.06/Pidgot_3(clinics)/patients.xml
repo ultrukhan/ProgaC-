@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Patients>
+	<Patient>
+		<P_id>1</P_id>
+		<Surname>Trukhan</Surname>
+		<BirthDate>2007-09-04</BirthDate>
+	</Patient>
+	<Patient>
+		<P_id>2</P_id>
+		<Surname>Kruvano</Surname>
+		<BirthDate>2007-08-02</BirthDate>
+	</Patient>
+	<Patient>
+		<P_id>3</P_id>
+		<Surname>Forti</Surname>
+		<BirthDate>2010-07-13</BirthDate>
+	</Patient>
+</Patients>

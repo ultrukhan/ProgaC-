@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Categories>
+	<Cat>
+		<Ca_id>1</Ca_id>
+		<Title>Category1</Title>
+	</Cat>
+	<Cat>
+		<Ca_id>2</Ca_id>
+		<Title>Category2</Title>
+	</Cat>
+	<Cat>
+		<Ca_id>3</Ca_id>
+		<Title>Category3</Title>
+	</Cat>
+</Categories>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Datas>
+	<Data>
+		<D_id>5</D_id>
+		<G_id>2</G_id>
+		<C_id>5</C_id>
+		<B_date>2026-02-10</B_date>
+		<Z_date>2026-09-04</Z_date>
+		<Nights>5</Nights>
+	</Data>
+	<Data>
+		<D_id>6</D_id>
+		<G_id>3</G_id>
+		<C_id>6</C_id>
+		<B_date>2026-01-01</B_date>
+		<Z_date>2026-01-03</Z_date>
+		<Nights>3</Nights>
+	</Data>
+	<Data>
+		<D_id>7</D_id>
+		<G_id>3</G_id>
+		<C_id>3</C_id>
+		<B_date>2026-06-01</B_date>
+		<Z_date>2026-06-02</Z_date>
+		<Nights>4</Nights>
+	</Data>
+	<Data>
+		<D_id>8</D_id>
+		<G_id>1</G_id>
+		<C_id>2</C_id>
+		<B_date>2026-03-03</B_date>
+		<Z_date>2026-09-04</Z_date>
+		<Nights>4</Nights>
+	</Data>
+</Datas>

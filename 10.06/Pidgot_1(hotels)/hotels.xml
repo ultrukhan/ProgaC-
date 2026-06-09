@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Hotels>
+	<Hotel>
+		<H_id>1</H_id>
+		<H_name>Hotel1</H_name>
+		<H_city>Lviv</H_city>
+	</Hotel>
+	<Hotel>
+		<H_id>2</H_id>
+		<H_name>Hotel2</H_name>
+		<H_city>Kyiv</H_city>
+	</Hotel>
+	<Hotel>
+		<H_id>3</H_id>
+		<H_name>Hotel3</H_name>
+		<H_city>Odesa</H_city>
+	</Hotel>
+</Hotels>

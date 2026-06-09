@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Tickets>
+	<Ticket>
+		<FlightId>101</FlightId>
+		<PassengerId>1</PassengerId>
+		<Date>2024-01-15</Date>
+	</Ticket>
+	<Ticket>
+		<FlightId>102</FlightId>
+		<PassengerId>1</PassengerId>
+		<Date>2024-01-20</Date>
+	</Ticket>
+	<Ticket>
+		<FlightId>103</FlightId>
+		<PassengerId>2</PassengerId>
+		<Date>2024-01-18</Date>
+	</Ticket>
+	<Ticket>
+		<FlightId>101</FlightId>
+		<PassengerId>3</PassengerId>
+		<Date>2024-02-10</Date>
+	</Ticket>
+	<Ticket>
+		<FlightId>103</FlightId>
+		<PassengerId>4</PassengerId>
+		<Date>2024-02-15</Date>
+	</Ticket>
+</Tickets>

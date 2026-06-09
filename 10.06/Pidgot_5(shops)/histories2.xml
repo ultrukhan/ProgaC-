@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Histories>
+	<Hist>
+		<Date>2026-02-02</Date>
+		<Z_id>5</Z_id>
+		<Cl_id>4</Cl_id>
+		<T_id>1</T_id>
+		<Num>4</Num>
+	</Hist>
+	<Hist>
+		<Date>2026-03-03</Date>
+		<Z_id>6</Z_id>
+		<Cl_id>1</Cl_id>
+		<T_id>2</T_id>
+		<Num>20</Num>
+	</Hist>
+	<Hist>
+		<Date>2026-06-06</Date>
+		<Z_id>7</Z_id>
+		<Cl_id>2</Cl_id>
+		<T_id>3</T_id>
+		<Num>12</Num>
+	</Hist>
+	<Hist>
+		<Date>2026-05-05</Date>
+		<Z_id>8</Z_id>
+		<Cl_id>3</Cl_id>
+		<T_id>1</T_id>
+		<Num>2</Num>
+	</Hist>
+</Histories>

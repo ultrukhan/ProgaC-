@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Passengers>
+	<Passenger>
+		<Id>1</Id>
+		<LastName>Шевченко</LastName>
+		<Age>30</Age>
+	</Passenger>
+	<Passenger>
+		<Id>2</Id>
+		<LastName>Коваленко</LastName>
+		<Age>45</Age>
+	</Passenger>
+	<Passenger>
+		<Id>3</Id>
+		<LastName>Бойко</LastName>
+		<Age>22</Age>
+	</Passenger>
+	<Passenger>
+		<Id>4</Id>
+		<LastName>Мельник</LastName>
+		<Age>50</Age>
+	</Passenger>
+</Passengers>

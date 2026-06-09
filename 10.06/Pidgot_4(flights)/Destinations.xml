@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Destinations>
+	<Destination>
+		<Id>1</Id>
+		<Name>Київ</Name>
+		<PricePerFlight>1000</PricePerFlight>
+	</Destination>
+	<Destination>
+		<Id>2</Id>
+		<Name>Варшава</Name>
+		<PricePerFlight>2500</PricePerFlight>
+	</Destination>
+	<Destination>
+		<Id>3</Id>
+		<Name>Лондон</Name>
+		<PricePerFlight>5000</PricePerFlight>
+	</Destination>
+</Destinations>

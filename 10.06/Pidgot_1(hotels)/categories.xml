@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Categories>
+	<Categorie>
+		<C_id>1</C_id>
+		<H_id>1</H_id>
+		<C_name>Lux</C_name>
+		<Price>800</Price>
+	</Categorie>
+	<Categorie>
+		<C_id>2</C_id>
+		<H_id>2</H_id>
+		<C_name>Standart</C_name>
+		<Price>300</Price>
+	</Categorie>
+	<Categorie>
+		<C_id>3</C_id>
+		<H_id>3</H_id>
+		<C_name>Category3</C_name>
+		<Price>400</Price>
+	</Categorie>
+	<Categorie>
+		<C_id>4</C_id>
+		<H_id>2</H_id>
+		<C_name>Lux+</C_name>
+		<Price>1000</Price>
+	</Categorie>
+	<Categorie>
+		<C_id>5</C_id>
+		<H_id>3</H_id>
+		<C_name>Standart</C_name>
+		<Price>300</Price>
+	</Categorie>
+	<Categorie>
+		<C_id>6</C_id>
+		<H_id>1</H_id>
+		<C_name>Category6</C_name>
+		<Price>400</Price>
+	</Categorie>
+</Categories>

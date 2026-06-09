@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Clients>
+	<Cli>
+		<Cl_id>1</Cl_id>
+		<Surname>Sur1</Surname>
+		<Numder>0978097500</Numder>
+		<Mail>ul.trukhan07@gmail.com</Mail>
+	</Cli>
+	<Cli>
+		<Cl_id>2</Cl_id>
+		<Surname>Sur2</Surname>
+		<Numder>0975119984</Numder>
+	</Cli>
+	<Cli>
+		<Cl_id>3</Cl_id>
+		<Surname>Sur3</Surname>
+		<Mail>meprodrawler@gmail.com</Mail>
+	</Cli>
+	<Cli>
+		<Cl_id>4</Cl_id>
+		<Surname>Sur4</Surname>
+	</Cli>
+</Clients>

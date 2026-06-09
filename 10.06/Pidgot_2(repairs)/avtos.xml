@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Avtos>
+	<Avto>
+		<A_id>1</A_id>
+		<O_id>4</O_id>
+		<Marka>Audi</Marka>
+		<Class>Econom</Class>
+		<BasePrice>1500</BasePrice>
+	</Avto>
+	<Avto>
+		<A_id>2</A_id>
+		<O_id>2</O_id>
+		<Marka>Marsedes</Marka>
+		<Class>Busines</Class>
+		<BasePrice>5000</BasePrice>
+	</Avto>
+	<Avto>
+		<A_id>3</A_id>
+		<O_id>3</O_id>
+		<Marka>Shkoda</Marka>
+		<Class>Econom</Class>
+		<BasePrice>1000</BasePrice>
+	</Avto>
+	<Avto>
+		<A_id>4</A_id>
+		<O_id>1</O_id>
+		<Marka>Maclaren</Marka>
+		<Class>Busines</Class>
+		<BasePrice>5000</BasePrice>
+	</Avto>
+</Avtos>
