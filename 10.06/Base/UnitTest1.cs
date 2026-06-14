@@ -18,11 +18,11 @@ namespace TestPidgot_4
 
         public Fixture()
         {
-             = XElement.Parse("@").Descendants("");
-             = XElement.Parse("@").Descendants("");
-             = XElement.Parse("@").Descendants("");
-             = XElement.Parse("@").Descendants("");
-             = XElement.Parse("@").Descendants("");
+             = XElement.Parse(@"").Descendants("");
+             = XElement.Parse(@"").Descendants("");
+             = XElement.Parse(@"").Descendants("");
+             = XElement.Parse(@"").Descendants("");
+             = XElement.Parse(@"").Descendants("");
 
         }
     }
@@ -36,14 +36,14 @@ namespace TestPidgot_4
         [Fact]
         public void TaskATest()
         {
-            var exp = XElement.Parse("@");
+            var exp = XElement.Parse(@"");
             var res = Logic.TaskA();
             Assert.True(XNode.DeepEquals(exp, res), "Trees don`t match!");
         }
         [Fact]
         public void TaskBTest()
         {
-            var exp = XElement.Parse("@");
+            var exp = XElement.Parse(@"");
             var res = Logic.TaskB();
             Assert.True(XNode.DeepEquals(exp, res), "Trees don`t match!");
         }
